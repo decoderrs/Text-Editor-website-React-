@@ -1,7 +1,7 @@
 # Text Editor app with dark mode enabled
-1. This is a basic text Editor app with functionality such as convert to uppercase or lowercase, word count,read time and preview.
-2.It has dark mode enabled.
-3.It is built in react, so it is light weight and dynamic.
+.This is a basic text Editor app with functionality such as convert to uppercase or lowercase, word count,read time and preview.
+.It has dark mode enabled.
+.It is built in react, so it is light weight and dynamic.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
